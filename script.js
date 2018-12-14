@@ -18,7 +18,7 @@ const authEndpoint = 'https://accounts.spotify.com/authorize';
 
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = '8f6c320962694d74887be4bfc967d10f';
-const redirectUri = 'https://musicplayer.cypher.fi/';
+const redirectUri = 'http://musicplayer.cypher.fi/';
 const scopes = [
   'streaming',
   'user-read-private',
